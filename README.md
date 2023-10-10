@@ -1,5 +1,8 @@
 # Amazon-Home-Clone
 Successfully created a front-end project by meticulously crafting a clone of Amazon's home page using only HTML and CSS.
+
+## Link
+https://saloni-225.github.io/Amazon-Home-Clone/
 # Screenshot
 
 ### Hero Section
