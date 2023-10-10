@@ -187,6 +187,30 @@ span{
 .box-content p{
     color: #007185;
 }
+.box1 .box-img {
+    background-image: url("img/box1_image.jpg");
+}
+.box2 .box-img {
+    background-image: url("img/box2_image.jpg");
+}
+.box3 .box-img {
+    background-image: url("img/box3_image.jpg");
+}
+.box4 .box-img {
+    background-image: url("img/box4_image.jpg");
+}
+.box5 .box-img {
+    background-image: url("img/box5_image.jpg");
+}
+.box6 .box-img {
+    background-image: url("img/box6_image.jpg");
+}
+.box7 .box-img {
+    background-image: url("img/box7_image.jpg");
+}
+.box8 .box-img {
+    background-image: url("img/box8_image.jpg");
+}
 
 /*footer*/
 footer{
